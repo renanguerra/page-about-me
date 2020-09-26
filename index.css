@@ -3,6 +3,7 @@ body{
     background:rgb(243, 240, 240);
     text-align: center;
     padding: 30px;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 a{
@@ -20,7 +21,6 @@ a{
 .name{
     font-weight: bold;
     font-size: 50px;
-    font-family: 'Ubuntu', sans-serif;
 }
 
 .description{
